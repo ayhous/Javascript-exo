@@ -1,0 +1,43 @@
+.globale{
+    display: flex;
+    float: left;
+    width: 20%;
+    padding-left:100px;
+    margin: 10px;
+    border-width: 5px;
+    
+}
+#col1{
+
+    padding:10px;
+    border :solid 1px #ccc;
+}
+#col2{
+
+    padding:10px;
+    border :solid 1px #ccc;
+}
+#col3{
+
+    padding:10px;
+    border :solid 1px #ccc;
+}
+#col4{
+
+    padding:10px;
+    border :solid 1px #ccc;
+}
+#col5{
+
+    padding:10px;
+    border :solid 1px #ccc;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .hidden {
+    display: none;
+  }
